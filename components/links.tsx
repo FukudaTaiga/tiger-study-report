@@ -12,6 +12,7 @@ export const categories = [
     categoryName: "react",
     categoryList: [
       { id: 4, name: "レンダリングの順序", path: "/react/rendering" },
+      { id: 7, name: "React DOM", path: "/react/dom" },
     ]
   },
   {
@@ -31,4 +32,5 @@ export const histories = [
   { id: 4, name: "レンダリングの順序", path: "/react/rendering" },
   { id: 5, name: "phpとは", path: "/php/whats"},
   { id: 6, name: "phpの基礎文法", path: "/php/basic"},
+  { id: 7, name: "React DOM", path: "/react/dom" },
 ];

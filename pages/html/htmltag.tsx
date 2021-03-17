@@ -14,7 +14,7 @@ function HTMLTag(): React.ReactNode {
         <Example>
           <pre><code>{`
           <!DOCTYPE html>
-          <html lang=&quot;en&quot; dir=&quot;ltr&quot;>
+          <html lang="en" dir="ltr">
             <head>
               ここに何か書くよ
             </head>

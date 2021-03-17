@@ -221,10 +221,10 @@ function PHPBasic() {
 
           出力:
           <div className="text-center">
-            {`
+            <pre>{`
               7946
               100002054
-            `}
+            `}</pre>
           </div>
         </Example>
         <p>

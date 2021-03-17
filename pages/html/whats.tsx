@@ -55,9 +55,7 @@ export default function WhatsHTML() {
             これらは実際htmlのみでは実現できないし, 世の中のwebページでhtmlのみで書かれたものはないだろう. <br />
             前者のどこに何を・どんな風に書けばいいかを指定するために使われるのが
             <span className="text-red-500">css</span> であり,
-            後者の動的な作用を記述しているのは <span className="text-red-500">javascript</span> や
-            <span className="text-red-500">typescript</span>
-            だ.
+            後者の動的な作用を記述しているのは <span className="text-red-500">javascript</span>だ.
             これに加えてサーバー側で動作する言語として<span className="text-red-500">php</span>などがある. <br />
             それぞれの言語には得意なことが違い, 我々が見ているwebページは様々な言語たちが協力し合ってできているのだ.
           </p>
